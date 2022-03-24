@@ -7,3 +7,9 @@ let c = a++;
 let d = ++c;
 let e = ++d + d++ + d;
 ```
+
+a = 2
+b = 2
+c = 2
+d = 4
+e = 10
